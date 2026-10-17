@@ -1,0 +1,6 @@
+{
+  "name": "PreeOrderin - Smart Pre-Order & Merchant QRIS Platform",
+  "description": "Platform cerdas sistem pre-order produk, pembayaran QRIS merchant pribadi, dashboard analitik real-time, manajemen stok otomatis, multi-user RBAC, dan ekspor laporan PDF/Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
